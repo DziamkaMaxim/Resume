@@ -1,0 +1,37 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f5f7fa;
+}
+
+li {
+  background-color: #fff;
+  color: #595959;
+  font-size: 14px;
+  line-height: 24px;
+}
+.one {
+  background-color: 595959;
+}
+.two {
+  font-size: 14px;
+  font-weight: 700;
+  color: black;
+  display: flex;
+  flex-direction: column;
+}
+.three {
+  background-color: violet;
+}
+.four {
+  background-color: green;
+}
+.five {
+  background-color: aqua;
+}
+.six {
+  background-color: bisque;
+}
+.main-container {
+  display: flex;
+  flex-direction: row;
+}
